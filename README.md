@@ -39,7 +39,7 @@ We also checked the outlier data using the Box-Whisker plot, as shown in Figure 
 </p>
 As above figure illustrates, we developed five supervised learning models, i) Linear Regression (LR), ii) Decision Tree (DT), iii) Neural Network (NN),  iv) Random Forest (RF). We developed 4 different models because we couldn’t predict which model would show the best performance for the given dataset. 
 Further, the K-fold cross-validation was used to reduce bias (CV=10). The cross-validation reduces variance dramatically as most of the data are used in the validation set. 
-Additionally, as Equation (1) shows, we utilized the mean square error (MSE) as a performance indicator since it reliably measures the accuracy of supervised ML model outcomes.
+Additionally, we utilized the mean square error (MSE) as a performance indicator since it reliably measures the accuracy of supervised ML model outcomes.
 
 #### 4. Result 
 <p align="center">
